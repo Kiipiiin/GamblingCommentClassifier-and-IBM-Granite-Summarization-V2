@@ -13,4 +13,8 @@ This project uses a Bag of Words representation with a Multinomial Naive Bayes c
 ## Dataset
 - Source Dataset: https://www.kaggle.com/datasets/yaemico/deteksi-judi-online
 
+## License
+This project is for educational purposes only. Contact the author for reuse or commercial purposes.
+
+
 
